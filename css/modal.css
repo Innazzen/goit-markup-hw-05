@@ -133,7 +133,7 @@
 }
 .form-transform {
   position: absolute;
-  top: 16px;
+  top: 50%;
   left: 16px;
   transform: translateY(-50%);
 }
@@ -256,4 +256,7 @@
 .submit-button:hover,
 .submit-button:focus {
   background-color: #404bbf;
+}
+.comment-wrapper {
+  margin-bottom: 16px;
 }
